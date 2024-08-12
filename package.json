@@ -12,7 +12,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+<<<<<<< HEAD
     "@testing-library/react": "^16.0.0",
+=======
+>>>>>>> Phase-2
     "base-64": "^1.0.0",
     "bootstrap": "^5.3.3",
     "react": "^18.3.1",
@@ -31,5 +34,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
+=======
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@babel/plugin-transform-private-property-in-object": "^7.24.7",
+    "@testing-library/jest-dom": "^6.4.8",
+    "@testing-library/react": "^16.0.0"
+>>>>>>> Phase-2
   }
 }

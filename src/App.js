@@ -21,7 +21,10 @@ class App extends Component {
             headers: {
                 'Authorization': 'Basic ' + base64.encode(uname + ":" + pword),
                 'Content-Type': 'application/json',
+<<<<<<< HEAD
                 // Add any other necessary headers here
+=======
+>>>>>>> Phase-2
             }
         })
             .then(res => res.json())
